@@ -79,8 +79,8 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://hongxingyun.pro/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=B6PcC2tf) |
-| 🥇 | [edgenova](https://lunvexa.edgenovayun.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
+| 🥇 | [红杏云](https://hongxing.one/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) |
+| 🥇 | [edgenova](https://edgenova.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
 
 <span id="others"></span>
 ### 📋 其他机场（按月付价格排列）
@@ -89,10 +89,10 @@
 |---|---|---|---|---|---|
 | 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 |  |
 | 2 | [杜卡迪](https://dukadi.info/#/register?code=2k4lxXBN) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT |  |
-| 3 | [快狸](https://kuailicloud.cc/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，很稳 | 解锁 |
+| 3 | [快狸](https://opm2c.ztfxkl.xyz/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，很稳 | 解锁 |
 | 4 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT |  |
 | 5 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
-| 6 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
+| 6 | [M78 星云](https://www.m78star.cn/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
 | 7 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
 | 8 | [乌龟加速](https://wuguijiasu.com/#/login?code=UOpm40Ge) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 |  |
 
@@ -119,7 +119,7 @@
 
 <span id="hongxingyun"></span>
 ### 1. 红杏云
-**官网入口**：[红杏云官网](https://hongxingyun.pro/web/#/login?code=B6PcC2tf)，[备用地址](https://hongxingyun1.com/web/#/login?code=B6PcC2tf)  
+**官网入口**：[红杏云官网](https://hongxing.one/web/#/login?code=B6PcC2tf)，[备用地址](https://hxlove21s.cc/web/#/login?code=B6PcC2tf)  
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
@@ -152,7 +152,7 @@
 
 <span id="edgenova"></span>
 ### 2. edgenova
-**官网入口**：[edgenova 官网](https://lunvexa.edgenovayun.cc/#/register?code=k9vWzAun)
+**官网入口**：[edgenova 官网](https://zvbghs02.ztymforedge.lol/#/register?code=k9vWzAun)
 
 **已整理信息**
 - 最低价格：¥20.00 / 月
@@ -214,13 +214,13 @@
 
 **优势**：
 - 同样提供年付 12 元的传家套餐，每月 200G 流量，性价比极高。
-- 高速专线接入，延迟极低。
+- 这机场其实现在不稳定，延迟极较高。
 - 支持解锁流媒体及 ChatGPT。
 
 **缺点**：
 - 传家套餐限速 100Mbps。
 - 无一键客户端。
-- 偶尔超时，要等修复。
+- 超时或不稳定多，不建议下手。[>这里找更好的](https://sites.google.com/view/xingjiabijichang1/pyjc)
 
 **使用体验**：
 流量给得很足，12 元一年能有每月 200G，日常查资料看视频完全够用。相比较于外面万人骑的一元机场，杜卡迪还是很值的。
@@ -254,7 +254,7 @@
 
 **缺点**：
 - 基础套餐有 5 台设备限制。
-- 节点可用率不算高。
+- 节点可用率不算高。不太建议你下手，建议选择[性价比更好的专线机场](https://sites.google.com/view/xingjiabijichang1/dh)
 
 **使用体验**：
 套餐选择非常灵活，无论是轻度用户还是企业团队都能找到合适的档位。
@@ -343,7 +343,7 @@
 
 <span id="m78"></span>
 ### 6. M78 星云
-**官网入口**：[M78 星云官网](https://www.m78.at/#/register?code=aMqvb66U)  
+**官网入口**：[M78 星云官网](https://www.m78star.cn/#/register?code=aMqvb66U)  
 **优惠码**：`season85`（季付 85 折） | `halfyear82`（半年付 82 折） | `year80`（年付 8 折）
 
 **机场信息**
@@ -353,7 +353,7 @@
 - 协议：ShadowSocks
 - 设备限制：不限制
 - 付款方式：支付宝 / 微信 / USDT
-- TG 频道：[点击加入](https://t.me/M78CheckIn_bot)
+- TG 频道：[点击加入](https://t.me/M78CheckIn_bot) [备用入口](https://www.m78.at/#/register?code=aMqvb66U)
 - 一键客户端：Windows / Android / Mac
 
 **优势**：
@@ -409,7 +409,7 @@
 
 <span id="wugui"></span>
 ### 8. 乌龟加速
-**官网入口**：[乌龟加速官网](https://wuguijs.com/#/login?code=UOpm40Ge)  
+**官网入口**：[乌龟加速官网](https://wuguijiasu.com/#/login?code=UOpm40Ge)  
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
